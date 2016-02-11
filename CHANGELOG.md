@@ -1,3 +1,10 @@
+<a name"v0.1.4"></a>
+### v0.1.4 (2016-2-11)
+
+#### Fixes and Improves
+* **file**
+  * morty pls ([05aceb1](https://github.com/japier/tags/commits/05aceb1))
+
 <a name"v0.1.3"></a>
 ### v0.1.3 (2016-2-11)
 
