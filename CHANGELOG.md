@@ -1,3 +1,10 @@
+<a name"v0.0.3"></a>
+### v0.0.3 (2016-2-10)
+
+#### Features
+* **file**
+  * adding content
+
 <a name"v0.0.2"></a>
 ### v0.0.2 (2016-2-10)
 
